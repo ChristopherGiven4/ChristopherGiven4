@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Laravel, Android**
 
-- 👯 I’m looking to collaborate on **A Life Group**
+- 👯 I’m looking to collaborate on **Google LLC**
 
 - 🤝 I’m looking for help with **Github**
 
