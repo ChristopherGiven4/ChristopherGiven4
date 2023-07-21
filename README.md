@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **PT. Tanjung Sakti**
 
-- 🌱 I’m currently learning **Laravel, Android**
+- 🌱 I’m currently learning **Laravel, Android & API**
 
 - 👯 I’m looking to collaborate on **Google LLC**
 
